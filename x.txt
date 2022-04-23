@@ -1,0 +1,145 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SIW</title>
+    <link rel="stylesheet" href="y.css" />
+  </head>
+  <body>
+    <h1>
+      Paolo Merialdo
+    </h1>
+      <section>
+        <img src = "https://th.bing.com/th/id/R.cecada29f59a87a72d0e1cbc26908bf8?rik=k2Y6FBlxl7GkFQ&riu=http%3a%2f%2fwww.comune.roma.it%2fresources%2fcms%2fimages%2fLogo_Roma3_d0.jpg&ehk=%2fBV88M5J9bF1aMnBGWuQdX4P%2b2mnreOUH1okypojYG0%3d&risl=&pid=ImgRaw&r=0"
+        alt = "Image"  height = "75" width = ""><br>
+        <a class = "hw"  href="https://www.uniroma3.it/">Università Roma3</a> <br>
+        <a class = "hw" href="https://www.inf.uniroma3.it/">Dipartimento di Ingegneria</a><br>
+        <a class = "hw" href="http://www.dia.uniroma3.it/">Sezione di Informatica e Automazione</a>,Via della Vasca Navale 7900146 Roma, Italy
+        <a class = "hw" href="http://asi.uniroma3.it/download/curriculum/1621524546Paolo%20Merialdo%20-%202021-05-14%20-%20EN.pdf"> <br> My curriculum vitae</a> (pdf)
+        
+       </section>
+     
+	  <div class="container">
+		<h2><strong class = "indice">Paolo Merialdo home</strong></h2>
+        <span><img src = "http://merialdo.dia.uniroma3.it/paolo-merialdo.jpg"
+                  alt = "Image"  height = "170" width = "170"><br><br></span>
+		 <li><a class = "indice" href = "">Research</a>&nbsp;</li>
+	     <li><a class = "indice" href = "">Teaching</a>
+	     <li><a class = "indice" href = "">Thesis and Internships</a></li>
+         <li><a class = "indice" href = "">Other Activities</a></li>
+		</div>
+        <br>
+
+      <h4>
+      RESEARCH<br>
+       <br>
+      </h4>
+ 
+     <p class="hw">
+     <strong>
+     Research Activities:<br><br>
+     </strong>
+1. In codice Ratio: Machine Learning meets Digital Humanities.<br>
+Read the <a class = "hw" href="https://www.technologyreview.com/s/610530/ai-tackles-the-vaticans-secrets/amp">MIT Technology Review article</a> on the project!
+Lorenzo Lastilla, Serena Ammirati, Donatella Firmani, Nikos Komodakis, Paolo Merialdo, Simone Scardapane. <a class = "hw" href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322000097">Self-supervised learning for medieval handwriting identification: A case study from the Vatican Apostolic Library</a> Information Processing & Management 59:3 (2022)
+Elena Nieddu, Donatella Firmani, Paolo Merialdo, Marco Maiorino. <a class = "hw" href="https://www.sciencedirect.com/science/article/abs/pii/S0306457321001035">In Codice Ratio: A crowd-enabled solution for low resource machine transcription of the Vatican Registers</a> Information Processing & Management 58:2 (2021)
+Donatella Firmani, Marco Maiorino, Paolo Merialdo, Elena Nieddu  <a class = "hw" href="https://dl.acm.org/doi/abs/10.1145/3219819.3219879">Towards Knowledge Discovery from the Vatican Secret Archives. In Codice Ratio-Episode1: Machine Transcription of the Manuscripts.</a> ACM KDD 2018.<br>
+2. Explainable AI for Big Data Management Issues.<br>
+   Vincenzo Di Cicco, Donatella Firmani, Nick Koudas, Paolo Merialdo, Divesh Srivastava <a class = "hw" href="https://dl.acm.org/doi/10.1145/3329859.3329878">Interpreting deep learning models for entity resolution: an experience report using LIME</a>: Explaining Deep Learning Models for Entity Resolution.. Second International Workshop on Exploiting Artificial Intelligence Techniques for Data Management.<a class = "hw" href="https://github.com/merialdo/research.mojito">Code on github</a>
+Tommaso Teofili, Donatella Firmani, Nick Koudas, Vincenzo Martello, Paolo Merialdo, Divesh Srivastava: <a class = "hw" href = "https://arxiv.org/pdf/2203.12978.pdf">Effective Explanations for Entity Resolution Models</a> IEEE ICDE 2022
+Andrea Rossi, Denilson Barbosa, Donatella Firmani, Antonio Matinata, Paolo Merialdo <a class = "hw" href = "https://dl.acm.org/doi/abs/10.1145/3424672">Knowledge Graph Embedding for Link Prediction: A Comparative Analysis</a>. ACM Transactions on Knowledge Discovery from Data 15:2 pp 1–49
+Andrea Rossi, Donatella Firmani, Tommaso Teofili, Paolo Merialdo. <a class = "hw" href = "">Explaining Link Prediction Systems based on Knowledge Graph Embeddings</a>. ACM Sigmod 2022. <br>
+3.Web Data Integration <br>
+Valter Crescenzi, Paolo Merialdo, Disheng Qiu.<a class="hw" href = "https://dl.acm.org/doi/abs/10.1145/3344720"> Hybrid Crowd-Machine Wrapper Inference</a>ACM Transactions on Knowledge Discovery from Data 13:5 pp 1–43 (2019)
+Matteo Cannaviccio, Denilson Barbosa, Paolo Merialdo <a class = "hw" href = "">Towards annotating relational data on the web with language models</a> 2018 World Wide Web Conference
+Disheng Qiu, Luciano Barbosa, Valter Crescenzi, Paolo Merialdo, Divesh Srivastava. <a class = "hw" href = "https://dl.acm.org/doi/abs/10.1145/3183713.3183757">Big Data Linkage for Product Specification Pages</a> ACM Sigmod 2018
+Federico Piai, Paolo Atzeni, Paolo Merialdo, Divesh Srivastava. Fine-grained semantic type discovery for heterogeneous sources using clustering VLDBJ 2022 (to appear).<br>
+      </p>
+     <p>
+    <strong>
+         Current Fundings:<br><br>
+    </strong>
+2021-2023 Matrices:Regione Lazio-Gruppi di ricerca<br>
+       (Lazioinnova)<br>
+2021-2023 Casa delle Tecnologie Emergenti<br>(MISE).<br><br>
+    <strong>
+      Service activity (in the last 5 years):<br><br>
+       </strong>
+     SIGMOD 2023, CIKM 2022, ICDE 2022, SIGMOD 2022;<br> CIKM 2021; VLDB 2021; CIKM 2018: Senior PC member; VLDB 2018: PC member demo track; ICDE 2018: PC member; VLDB 2017: PVLDB review board.<br><br>
+    <strong>
+      Publications:<br><br>
+       </strong>
+       <a class = "hw" href = "https://dblp.uni-trier.de/pid/m/PaoloMerialdo.html">List of publications</a> from the <a class = "hw" href = "https://dblp.uni-trier.de/">DBLP Bibliography Server</a>.<br>
+<a class = "hw" href = "https://dblp.uni-trier.de/">List of publications and citations </a> from <a class = "hw" href = "https://scholar.google.com/ ">Google Scholar</a>.<br>
+       <a class = "hw" href = "https://www.scopus.com/authid/detail.uri?authorId=6602539867">List of publications and citations</a> on <a class = "hw" href = "https://www.scopus.com/">Scopus</a>.<br>
+    </p>
+    <h4>
+      <br>
+      TEACHING
+      <br>
+      </h4>
+    <p>
+      <strong>
+        Courses:<br>
+      </strong>
+<br>ANNO ACCADEMICO 2021-2022:<br>
+
+    <strong class = "corso">SISTEMI INFORMATIVI SUL WEB</strong>
+    <br>
+(6Cfu, Secondo Semestre)<br>
+Laurea in Ingegneria Informatica, Laurea Triennale
+<br>
+
+     <strong class = "corso"> INGEGNERIA DEI DATI<br></strong>
+(6Cfu, Primo Semestre) <br>
+Laurea in Ingegneria Informatica, Laurea Magistrale<br>
+
+CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO<br>
+(1Cfu, Secondo Semestre)<br>
+Laurea in Ingegneria Informatica, Laurea Magistrale<br>
+Laurea in Ingegneria Gestionale e dell'Automazione, Laurea Magistrale<br>
+      
+<strong class = "corso">IMPRENDITORIALITÀ DIGITALE</strong><br>
+(6 Cfu,Primo Semestre)<br>
+Laurea in Ingegneria Informatica, Laurea Magistrale<br>
+Laurea in Ingegneria Gestionale e dell'Automazione, Laurea Magistrale<br>
+      </p>
+      <h4>
+        THESIS AND INITERNSHIPS
+        <br>
+        <br>
+        </h4>
+      <div>
+        <strong class = "corso">PROPOSTE DI TESI E TIROCINI NEI PROGETTI DI RICERCA <br> </strong>
+        <h3>Progetto Kelpie (in collaborazione con University of Alberta)<br></h3>
+
+Explainable AI for Link Prediction on Knowledge Graphs
+Machine Learning, explainable AI<br>
+
+        <h3>Progetto In codice Ratio <br></h3>
+
+Knowledge extraction from medieval manuscripts
+Machine Learning, Natural Language Processing, Computer Vision <br>
+
+        <h3>Progetto CERTA (in collaborazione con AT&T Research e University of Toronto) <br></h3>
+
+Explainable Machine Learning for data management tasks
+Machine Learning, explainable AI, Big Data Integration<br><br>
+
+NB:Tutte le tesi prevedono attività di progettazione, implementazione e sperimentazione. Tecnologie e metodologie: big data processing, machine learning, data analytics, search, image processing.
+All'interno di questi progetti si possono definire tesi magistrali e tirocini triennali. <br><br>
+<strong class = "corso">PROPOSTE DI TESI (MAGISTRALI) E TIROCINI (TRIENNALI) PRESSO AZIENDE <br> </strong>
+vedi bacheca davanti allo studio del docente
+      </div>
+    <h4>
+      OTHER ACTIVITIES
+      </h4>
+      <footer>
+        <strong>
+      Innovation and entrepreneurship: <br><br>
+        </strong>
+Cofounder and organizer of <a class = "hw" href = "https://www.dock3.it/">Dock3 - The Startup Lab</a> <br>
+Cofounder and organizer of <a class = "hw" href = "http://www.innovactionlab.org/">InnovAction Lab</a><br>
+        Advisor at the <a class = "hw" href = "http://www.luissenlabs.com/">LuissEnlabs accelerator</a> in Rome
+      </footer>
+  </body>
+</html>
